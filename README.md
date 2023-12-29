@@ -4,8 +4,8 @@ Assignments that tested my knowledge of basic data structures and object-oriente
 ```java
   // Data structures learned
   List<Integer> dataStruc1 = new ArrayList<>();
-  Stack<Integer> dataStruct2 = new Stack<>();
-  Queue<Integer> dataStruct3 = new LinkedList<>();
-  Set<Integer> dataStruct4 = new HashSet<>();
-  Map<Integer, Integer> dataStruct5 = new HashMap<>();
+  Stack<Integer> dataStruc2 = new Stack<>();
+  Queue<Integer> dataStruc3 = new LinkedList<>();
+  Set<Integer> dataStruc4 = new HashSet<>();
+  Map<Integer, Integer> dataStruc5 = new HashMap<>();
 ```
